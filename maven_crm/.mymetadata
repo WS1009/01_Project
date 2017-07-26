@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="maven_crm"
+  id="myeclipse.1500994214434"
+  context-root="/maven_crm"
+  j2ee-spec="1.7"
+  archive="maven_crm.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
